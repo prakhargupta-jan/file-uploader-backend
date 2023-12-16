@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment-specific files
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore Uploaded files
+uploadedFiles/*
+!uploadedFiles
+
+# Other files to ignore
+yarn-error.log
